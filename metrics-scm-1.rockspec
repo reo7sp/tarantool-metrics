@@ -2,8 +2,8 @@ package = 'metrics'
 version = 'scm-1'
 
 source  = {
-    url    = 'git+https://github.com/tarantool/metrics.git',
-    branch = 'master'
+    url    = 'git+https://github.com/reo7sp/tarantool-metrics.git',
+    branch = 'fork-master'
 }
 
 description = {
